@@ -10,7 +10,8 @@ Whether you're a backend wizard or just starting your API journey, API-tite stre
 
 ## 🎬 Animated Overview
 
-![API-tite Animation](https://github.com/SairajChowdhary/API-tite/assets/1018115666/animated-demo.gif)
+![API-Platform](https://github.com/user-attachments/assets/769726d9-f741-40a9-92d6-56b8b560045a)
+
 
 ---
 
