@@ -36,12 +36,6 @@ Whether you're a backend wizard or just starting your API journey, API-tite stre
 
 ## 🖼️ Infographics
 
-### **API-tite Architecture**
-
-![API-tite Architecture](https://github.com/SairajChowdhary/API-tite/assets/1018115666/architecture-diagram.svg)
-
----
-
 ### **How It Works**
 
 ```mermaid
