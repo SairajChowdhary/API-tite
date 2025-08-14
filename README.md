@@ -79,19 +79,6 @@ Questions? Feedback?
 
 ---
 
-### 🎨 More Visuals
-
-#### System Flow
-
-![System Flow](https://github.com/SairajChowdhary/API-tite/assets/1018115666/system-flow.png)
-
-#### Live Usage Stats
-
-![Live Usage Stats]((https://substack-post-media.s3.amazonaws.com/public/images/3eedbbd4-e0a4-4519-be5c-ee0c644df55f_1280x1502.gif))
-
----
-
-<!-- Animation and diagrams created using [LottieFiles](https://lottiefiles.com/) and [Mermaid](https://mermaid-js.github.io/). Replace demo links/images with your own if preferred. -->
 I Built this using Flask to serve recommendations and manage data, making the system modular and scalable.
 You can do API testing using Postman or simply use curl
 So basically you can run this following the below steps:
