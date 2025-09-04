@@ -1,6 +1,3 @@
-# API-tite
-An AI-powered food discovery app that recommends specific dishes based on your unique taste profile, built with Python, Flask, and NLTK.
-
 # 🚀 API-tite
 
 Welcome to **API-tite** – your all-in-one toolkit for effortless API development, testing, and documentation!  
